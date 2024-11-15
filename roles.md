@@ -1,13 +1,18 @@
 ## Roles y Tareas
-**Diseñador**:Se encarga de la estructura y estilo de la pagina.
--Diseña el esquema visual.
--crea y ajusta los estilos en css.
--Asegura que el diseño sea responsive.
-**Redactor**:Escribe el contenido de las secciones.
--redacta los textos principales.
--Revisa la ortografia y el estilo.
 
-**Programador**:Implementa la funcionalidad y los enlaces de la páginas.
--COnecta las diferentes paginas creadas mediante enlaces.
--Revisa que todas las paginas sean navegables.
+- **Diseñador**: Se encarga de la estructura y estilo de la página.
+  - Diseña el esquema visual.
+  - Crea y ajusta los estilos en CSS.
+  - Asegura que el diseño sea responsive.
+
+- **Redactor**: Escribe el contenido de las secciones.
+  - Redacta los textos principales.
+  - Utiliza Markdown para estructurar el contenido.
+  - Revisa la ortografía y el estilo.
+
+- **Programador**: Implementa la funcionalidad y los enlaces entre páginas.
+  - Conecta las páginas creadas mediante enlaces.
+  - Configura la funcionalidad de GitHub Pages.
+  - Revisa que todas las páginas sean navegables.
+
 
