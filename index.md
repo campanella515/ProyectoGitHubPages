@@ -1,22 +1,22 @@
-#Bienvenidos a mi pagina web
+# Bienvenidos a mi página web
 
-Este es el proyecto desarollado utilizando  **MarkDown** y publicado en **GitHub**.
+Este es el proyecto desarrollado utilizando **Markdown** y publicado en **GitHub Pages**.
 
+## Secciones de la Página
 
-##Secciones de la Pagina
+- [Introducción](#introducción)
+- [Sobre el proyecto](#sobre-el-proyecto)
+- [Conclusión](#conclusión)
 
--[Introduccion](#introduccion)
--[Sobre el proyecto](#Sobre-el-proyecto)
--[Conclusion](#conclusion)
+## Introducción
 
+Esta página tiene como objetivo mostrar cómo trabajar con **Markdown** y **GitHub Pages**.
 
-#Introduccion
+## Sobre el proyecto
 
-Esta pagina tiene como objeto mostrar como trabar con Markdown y GitHub Pages.
+Se trata de un proyecto sencillo y práctico para aprender el uso de estas dos herramientas.
 
-##Sobre el proyecto
+## Conclusión
 
-Se trata de un proyecto sencillo y practico para aprencer el uso de estas dos herramientas.
+Gracias por visitar la página.
 
-##Conclusion
-Gracias por visitar la pagina.
