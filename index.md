@@ -7,6 +7,7 @@ Este es el proyecto desarrollado utilizando **Markdown** y publicado en **GitHub
 - [Introducción](#introducción)
 - [Sobre el proyecto](#sobre-el-proyecto)
 - [Conclusión](#conclusión)
+- [Conclusión](#memoria.md)
 
 ## Introducción
 
