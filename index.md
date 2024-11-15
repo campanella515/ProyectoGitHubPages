@@ -5,7 +5,7 @@ Este es el proyecto desarollado utilizando  **MarkDown** y publicado en **GitHub
 
 ##Secciones de la Pagina
 
--[INtroduccion](#introduccion)
+-[Introduccion](#introduccion)
 -[Sobre el proyecto](#Sobre-el-proyecto)
 -[Conclusion](#conclusion)
 
